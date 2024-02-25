@@ -2,6 +2,9 @@
 
 This project demonstrates the implementation of augmented reality (AR) using a webcam and AprilTag detection. It involves the following steps:
 
+![Untitled video - Made with Clipchamp](https://github.com/IJAMUL1/Augmented-Reality/assets/60096099/f72a6714-7ba3-4999-a765-297f73c7af26)
+
+
 ## Overview
 1. **Calibration**: Camera calibration is performed using a set of images to obtain intrinsic parameters such as the camera matrix and distortion coefficients.
 2. **AprilTag Detection**: AprilTags, which are fiducial markers, are detected in real-time using the `pupil_apriltags` library. These tags provide a reference point for anchoring virtual objects in the real world.
