@@ -1,6 +1,6 @@
 # Augmented Reality Cube on AprilTag Detection
 
-This project demonstrates the implementation of augmented reality (AR) using a webcam and AprilTag detection. It involves the following steps:
+Augmented reality (AR) overlays digital information or virtual objects  onto the physical world viewed through a device's camera. AprilTags, a type of fiducial marker, play a crucial role in AR by providing reliable reference points. These visually distinct, square patterns contain a unique ID and can be detected by computer vision algorithms. Upon detection, an AprilTag's precise 6D pose (position and orientation) can be calculated, offering a stable anchor point within the environment.  This enables the accurate registration and seamless superimposition of virtual content onto the real world,  facilitating the development of robust AR experiences.
 
 ![Untitled video - Made with Clipchamp](https://github.com/IJAMUL1/Augmented-Reality/assets/60096099/f72a6714-7ba3-4999-a765-297f73c7af26)
 
